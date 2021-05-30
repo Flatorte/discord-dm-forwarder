@@ -1,0 +1,10 @@
+{
+  "name": "dm-forwarder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Haneul Seong <hana@disroot.org>",
+  "license": "WTFPL",
+  "dependencies": {
+    "discord.js": "git+https://github.com/GiorgioBrux/discord.js.git"
+  }
+}
